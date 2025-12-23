@@ -46,6 +46,8 @@ python tool.py \
   -l "Welcome"
 ```
 
+![EZ Brute Logo](/assets/screenshot_2.png)
+
 ---
 
 ## Command-Line Arguments
